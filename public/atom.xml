@@ -4,7 +4,7 @@
   <title>Chris Stott</title>
   <link href="http://www.ChrisStott.ca/atom.xml" rel="self"/>
   <link href="http://www.ChrisStott.ca/"/>
-  <updated>2011-08-26T22:04:41-06:00</updated>
+  <updated>2011-08-26T22:25:27-06:00</updated>
   <id>http://www.ChrisStott.ca/</id>
   <author>
     <name>Chris Stott</name>
@@ -13,5 +13,266 @@
     
   </author>
 
+  
+  <entry>
+    <title>Back Again</title>
+    <link href="http://www.ChrisStott.ca/blog/Back-Again/"/>
+    <updated>2011-03-06T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/Back-Again</id>
+    <content type="html">&lt;p&gt;Well I'm back again. Ironically in the past when I've stopped blogging
+in the past it was usually because I got distracted by some
+technical / business. This time I have a valid reason.&lt;/p&gt;
+
+&lt;p&gt;This year I added a new team member to my team at work. The individual
+who joined was quite keen and interested in personal productivity,
+entreprenuerism, etc. I started off with my usual orientation including
+directing him to links to things that would support his style.&lt;/p&gt;
+
+&lt;p&gt;After a month or so he asked me if I'd be interested in starting a blog
+to capture these great articles. The result is &lt;a href=&quot;http://www.thehabitofthinking.com&quot;&gt;The Habit of Thinking&lt;/a&gt;.
+He came up with the great name.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;So far we've had 2 articles a day for the last month. Basically as I
+read my usual information feeds, documents, books, etc. I keep an eye
+out for things I think will be relevant. When I see it I add it to a
+draft &quot;queue&quot;. Harry then reviews and approves mine. It is pretty neat
+as we've been able to keep a growing queue in place so there is usually
+a week's worth of entries ready to go.&lt;/p&gt;
+
+&lt;p&gt;To be honest it has been a bit of a thrill. We got our first follower a
+while a go and now we have 4. We are no A-list blogger but we are having
+fun (and learning something along the way). All the things I've done to
+set up the site improve my skills to work on my own.&lt;/p&gt;
+
+&lt;p&gt;I'll probably be referencing articles across the sites. This site will
+contain my more detailed articles (i.e., long ones) and the other will
+be more short snippets of information or links to longer articles.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Ruby Koans</title>
+    <link href="http://www.ChrisStott.ca/blog/Ruby-Koans/"/>
+    <updated>2011-01-26T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/Ruby-Koans</id>
+    <content type="html">&lt;p&gt;To help me learn my current &lt;a href=&quot;http://www.jekyllrb.com&quot;&gt;blogging tool&lt;/a&gt; I have started to teach myself
+Ruby.  Ironically it is the same way that I taught myself to program in C many years ago (20+).
+Back then the &quot;Interwebs&quot; were in their infancy and I wanted to learn C.  I didn't have a book
+so I searched around the system and found the &quot;learnc&quot; tutorial that was built in to Unix.
+Basically I'd start it up, look at the examples, and then try to hack the code. I'd figured out
+how it was comparing my answer to the systems so I reverse engineered my way to an explanation.
+Worked wonders when I got stuck. In the end I was known as quite the C 'hacker' (something that I
+was called - not a label I gave myself).&lt;/p&gt;
+
+&lt;p&gt;Anyway back to the &lt;a href=&quot;http://www.rubykoans.com&quot;&gt;Ruby Koans&lt;/a&gt;. Basically you download them from the
+website, make sure you have a good editor (I'm really liking &lt;a href=&quot;http://macvim.org/&quot;&gt;MacVim&lt;/a&gt; and
+run the &quot;rake&quot; command. Through a Test Driven Development approach (i.e., Red, Green, Refactor)
+you basically work through a series of 274 tests. Each one builds on previous exercises. There
+are a couple of hard ones but thanks to google I've been able to look up syntax and guestimate what the
+language is doing. There is enough there that you get a pretty good feel for the language. I'm
+in no way a Ruby ninja now but I feel I can read &quot;good&quot; Ruby code and get the general gist of what it is doing.&lt;/p&gt;
+
+&lt;p&gt;Lots of &lt;strong&gt;fun&lt;/strong&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Thinking About Next Steps</title>
+    <link href="http://www.ChrisStott.ca/blog/Next-Steps/"/>
+    <updated>2011-01-19T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/Next-Steps</id>
+    <content type="html">&lt;p&gt;Over the last little while I've been reflecting what the next steps for
+me would be. Some people are motivated to &quot;survive&quot; work so they can
+enjoy their passion - usually something outside of the job. Others are
+mindlessly working day after day just to make ends meet.&lt;/p&gt;
+
+&lt;p&gt;To me that isn't living. I'm driven to make a difference. I've been
+asked why can't I just keep my head down and do a good &quot;enough&quot; job.
+I've been told to enter an organization and &quot;sit on my hands&quot; so that I
+didn't disturb anyone. WFT?&lt;/p&gt;
+
+&lt;p&gt;That's not making things better. That's not growth. If you are not
+moving forward you are slowly dying - and that's the last thing I want
+to do.&lt;/p&gt;
+
+&lt;p&gt;Over the years I've learned lots about effectively running
+organizations. I've proven time and time again that I can deliver the
+&quot;&lt;em&gt;impossible projects&lt;/em&gt;&quot;. The challenge I've had is that most companies
+only have the endurance to conduct change like these (and usually it is
+massive change) very infrequently. Once I've delivered the project they
+don't know what to do with me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; I belive that any impossible project is delivered by a team.
+My skill, and gift, is the ability to get the best out of a team.
+Ultimately my goal is to have them deliver successfully and at the end
+of the day have them look back and say &quot;look what we did!&quot;&lt;/p&gt;
+
+&lt;p&gt;Are there organizations that are willing to leverage my skills? Do I
+need to create an organization that is open to shifting and changing to
+the market so that &lt;strong&gt;we&lt;/strong&gt; can make a difference.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Making a Difference</title>
+    <link href="http://www.ChrisStott.ca/blog/Making-A-Difference/"/>
+    <updated>2011-01-17T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/Making-A-Difference</id>
+    <content type="html">&lt;p&gt;Following my attendance at the DemoCamp I’ve been thinking a lot about what I could offer a start up.
+I’m definitely interested in figuring out how I can help startups. Part of me wished that I was a kick-ass
+coder again but I'm starting to realize that given my almost 20 years of “learning” my bigger offering
+would be my business knowledge. I've read hundreds of business books, articles, etc.&lt;/p&gt;
+
+&lt;p&gt;Unlike many who read this type of information I have spend most of my career trying to apply it. The
+information just just clicks with me. My challenge is that it has taken me all these years to realize
+that I'm probably better suited for an entrepreneurial venture than being a drone in a large organization.&lt;/p&gt;
+
+&lt;p&gt;It is all about contribution.  As with most organizations the challenge is that if you don’t play the
+political games after a time everyone’s skills depreciates.  There might be individuals with much more
+to contribute but they are usually limited by what they are “allowed to do” - and that is limited by
+what their boss feels comfortable with.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>DemoCamp19</title>
+    <link href="http://www.ChrisStott.ca/blog/DemoCamp19/"/>
+    <updated>2011-01-13T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/DemoCamp19</id>
+    <content type="html">&lt;p&gt;Yesterday I went &lt;strong&gt;way&lt;/strong&gt; outside of my usual box. A few weeks ago I found a local website that was
+advertising a local Demo Camp event for the Calgary area. I thought &quot;What the heck?&quot; so I made arrangements
+to head down and attend the meeting. Despite being a very strong &lt;strong&gt;INTJ&lt;/strong&gt; I headed down.&lt;/p&gt;
+
+&lt;p&gt;I had a good time. I ran in to the lady who used to do the role I'm currently performing. She has
+really branched out and has developed a successful career as a leadership coach. We had a good chat
+catching up and then she gave me some tips on the meeting format, what was usually discussed and some
+other local meetings that might be interesting. Thanks for letting me tag along.&lt;/p&gt;
+
+&lt;p&gt;In talking with her and others there you could feel a real 'joy' around what people were working on.
+Some were small personal projects and others larger platform based initiatives. I still need to figure
+out how to introduce myself. Corporate IT guy comes across awkward when I'm talking to a 22 year-old
+entrepreneur who would probably rather work at McDonalds then do what I do. In any case, I feel I have
+skills I could offer them. Ah, the joys of &lt;strike&gt;age&lt;/strike&gt; maturity.&lt;/p&gt;
+
+&lt;p&gt;I'm looking forward to the next time.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Learning New Things</title>
+    <link href="http://www.ChrisStott.ca/blog/Learning-New-Things/"/>
+    <updated>2011-01-12T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/Learning-New-Things</id>
+    <content type="html">&lt;p&gt;I discovered a really interesting site a few weeks ago. &lt;a href=&quot;http://www.p2pu.org/&quot;&gt;P2PU&lt;/a&gt; is looking to
+create an educational revolution. In their words:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;The Peer 2 Peer University (P2PU) is an online community of open study groups for short university-level courses.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Yesterday I went to our local &lt;a href=&quot;http://www.calgaryagile.com/&quot;&gt;Agile Users Group&lt;/a&gt; meeting. I try to
+get out when they have an interesting topic. Tonight it was on Ruby on Rails. It was just basic
+introduction to the language and but it gave me the kick in the butt to try one of the P2PU course.&lt;/p&gt;
+
+&lt;p&gt;I've applied for the &quot;Introduction to Ruby and Rails&quot; course. One of the requirements to apply was
+to write a chunk of code, in your language of choice, that reads in a sentence and then prints the
+words in the sentence in the opposite order. Basic stuff but it was a little challenging given I don't
+know Ruby. Thinking up a solution was easy given the trivial nature of the problem so I thought I'd
+give it a shot in Ruby using an introductory book provided in the install environment. Once I was
+done an hour later I looked at my code and it looked a lot like C - makes sense given that was my
+last development language.&lt;/p&gt;
+
+&lt;p&gt;In any case, whether I get in or not, I think I'm going to investigate Rails some more.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Having Fun Again</title>
+    <link href="http://www.ChrisStott.ca/blog/Having-Fun-Again/"/>
+    <updated>2011-01-08T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/Having-Fun-Again</id>
+    <content type="html">&lt;p&gt;Work was stressful this week. To get my mind off of it I spent part of today playing around with Jekyll,
+HTML5 Boilerplate and Compass. It was very satisfying making a working system out of a number of tools
+I haven't really used before. I knew what I wanted and was able to make it happen.&lt;/p&gt;
+
+&lt;p&gt;Working on all of this makes me realize that there are lots of smart people on the web. The tools
+I'm using are well thought out and designed. With little more than a hacker attitude (i.e., curiosity,
+willingness to make mistakes, eagerness to learn, etc.) I've been able to quickly get up to speed and
+become productive using several tools.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Research Bug Strikes Again!</title>
+    <link href="http://www.ChrisStott.ca/blog/The-Research-Bug/"/>
+    <updated>2010-12-21T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/The-Research-Bug</id>
+    <content type="html">&lt;p&gt;Even thought I had a workable solution, after doing some more reading (primarily on big name
+developers websites) I noticed that a number of them were either using &lt;a href=&quot;http://www.wordpress.org&quot;&gt;Wordpress&lt;/a&gt;,
+&lt;a href=&quot;http://www.moveabletype.org&quot;&gt;Moveable Type&lt;/a&gt; or they were opting for simpler solutions.&lt;/p&gt;
+
+&lt;p&gt;I've always preferred &quot;simple&quot; to complex so I had a look at the solutions they were implementing.
+Some of them were really neat. The ones that attracted me were the sites that relied on a basic markup
+language and static webpages. I think it is the developer in me that drew me to these solutions. I used
+to enjoy hacking away code in emacs using scripts/macro languages/#defines/etc. to create nice tight chunks of code.&lt;/p&gt;
+
+&lt;p&gt;Keeping in mind I didn't want to spend months doing research I limited my analysis to two tools:
+&lt;a href=&quot;http://nanoc.stoneship.org/&quot;&gt;Nanok v3&lt;/a&gt; and &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Both of these are Ruby
+solutions. I've been interested in learning Ruby so I thought I would have a look at these to see if
+they would teach me a thing or two.&lt;/p&gt;
+
+&lt;p&gt;After spending a few days playing with each and eventually settled on Jekyll. I've also started to
+use &lt;a href=&quot;http://git-scm.com/&quot;&gt;Git&lt;/a&gt;, &lt;a href=&quot;http://gitx.frim.nl/&quot;&gt;GitX&lt;/a&gt;, and &lt;a href=&quot;http://macvim.org/&quot;&gt;MacVim&lt;/a&gt;. All very cool.&lt;/p&gt;
+
+&lt;p&gt;The basics of the site have been set up. Now I just need to use the &lt;em&gt;&lt;a href=&quot;http://html5boilerplate.com/&quot;&gt;HTML5 Boilerplate&lt;/a&gt;&lt;/em&gt; to make it look reasonable and I've got my platform.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Damn, that was easy!</title>
+    <link href="http://www.ChrisStott.ca/blog/That-was-Easy/"/>
+    <updated>2010-12-13T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/That-was-Easy</id>
+    <content type="html">&lt;p&gt;I remember starting the whole “I need a blog” thing. I spent &lt;strike&gt;days&lt;/strike&gt;, &lt;strike&gt;no weeks&lt;/strike&gt;,
+no months reading numerous HTML/CSS coding books with the hope of becoming a coding expert before I put anything
+“out there”. Of course that required full analysis of all the hosting options, languages (PHP, Perl, Ruby, etc.)
+before I could pick a tool. I’d have to pay for hosting and then spend a considerable amount of time developing my
+blog layout - all before I could add content.&lt;/p&gt;
+
+&lt;p&gt;Now look at me. Find URL - check. Look at hosting options - check. Curious about Tumblr and Posterious. Can they
+support personal URLs?? Test out with tumblr and BANG I’ve got a customized blog.&lt;/p&gt;
+
+&lt;p&gt;Damn, that was easy!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Start of the Journey</title>
+    <link href="http://www.ChrisStott.ca/blog/Start-of-the-Journey/"/>
+    <updated>2010-12-10T00:00:00-07:00</updated>
+    <id>http://www.ChrisStott.ca/blog/Start-of-the-Journey</id>
+    <content type="html">&lt;p&gt;I’ve been in the tech business for almost 20 years. Over that time I have worked on just about all
+“sides” of the table. I’ve been a management consultant, an employee, an independent contractor, a
+consultant working for a &lt;strike&gt;pimping&lt;/strike&gt; consulting agency. My specialty has primarily been
+in the technology area, however, I’ve been “accused” (not sure if that is a bad thing) of being a
+people geek, process geek, etc. Reality is I’m just a geek.&lt;/p&gt;
+
+&lt;p&gt;Despite being rewarded well for all this work (for the most part) I’ve always been restless. I’m
+always looking for the next big challenge. Once I get a project, group, or department running smoothly
+I get bored. I start to look for the next challenge, even if that means improving upon the model we
+just put in place. I live for that but unfortunately not everyone is the same. Some suffer from change
+fatigue while others are just waiting for a quiet moment to climb back in to the status quo.&lt;/p&gt;
+
+&lt;p&gt;I guess I’ve become a “suit” - someone who is comfortable standing up in front a crowded room, taking
+the lead and communicating the direction and vision of very large projects. But part of me is also a
+hacker. Not in the “black hat/grey hat/white hat” way but more of a curious person whose not afraid
+to take apart problems. The bugger the challenge the bigger the curiosity. I get sucked in by that
+curiosity until I resolve the problem.&lt;/p&gt;
+
+&lt;p&gt;I’ve started numerous blogs but I feel like this one is different. The purpose is to help me figure
+out the journey I’m on and figure out where I want to end up.&lt;/p&gt;
+</content>
+  </entry>
   
 </feed>
