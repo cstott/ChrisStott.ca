@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://www.ChrisStott.ca/about/</loc>
+        <lastmod>2011-08-26T22:04:21-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.ChrisStott.ca/blog/archives/</loc>
         <lastmod>2011-08-26T20:00:28-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.ChrisStott.ca/</loc>
         <lastmod>2011-08-26T20:00:28-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.ChrisStott.ca/projects/</loc>
+        <lastmod>2011-08-26T22:04:40-06:00</lastmod>
     </url>
 </urlset>
