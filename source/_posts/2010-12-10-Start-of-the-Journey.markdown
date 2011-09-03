@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Start of the Journey
-published: true
 categories: 
 - personal
 ---
