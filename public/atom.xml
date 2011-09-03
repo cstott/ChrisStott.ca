@@ -4,7 +4,7 @@
   <title>Chris Stott</title>
   <link href="http://www.ChrisStott.ca/atom.xml" rel="self"/>
   <link href="http://www.ChrisStott.ca/"/>
-  <updated>2011-08-26T22:25:27-06:00</updated>
+  <updated>2011-09-03T00:24:19-06:00</updated>
   <id>http://www.ChrisStott.ca/</id>
   <author>
     <name>Chris Stott</name>
@@ -13,6 +13,25 @@
     
   </author>
 
+  
+  <entry>
+    <title>Back (Yet) Again</title>
+    <link href="http://www.ChrisStott.ca/blog/Back-Yet-Again/"/>
+    <updated>2011-09-01T00:00:00-06:00</updated>
+    <id>http://www.ChrisStott.ca/blog/Back-Yet-Again</id>
+    <content type="html">&lt;h1&gt;Back (Yet) Again&lt;/h1&gt;
+
+&lt;p&gt;Sometimes it pays to get distracted by other things.&lt;/p&gt;
+
+&lt;p&gt;My previous iteration of this site relied on a base &lt;a href=&quot;www.jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; install with a number of add-ons, extensions and hacks to add all of the functionality I wanted. Most of it was working when &lt;a href=&quot;www.octopress.org&quot;&gt;Octopress&lt;/a&gt; version 2.0 was announced.&lt;/p&gt;
+
+&lt;p&gt;Octopress 2.0 addressed all of my needs (and the remaining issues) and provided the necessary information to quickly get a site up and running. A quick Google search for running Jekyll under &lt;a href=&quot;www.heroku.com&quot;&gt;Heroku&lt;/a&gt; and I was able to get a working site up and running in no time.&lt;/p&gt;
+
+&lt;p&gt;Now I have a working &lt;a href=&quot;www.git-scm.com&quot;&gt;git&lt;/a&gt; repository, a synchronized &lt;a href=&quot;www.github.com&quot;&gt;github&lt;/a&gt; repository and a local copy managed through &lt;a href=&quot;www.dropbox.com&quot;&gt;dropbox&lt;/a&gt;. I like this solution as it is very easy to maintain (i.e., all I need to do is write articles, sync with git and then push it to heroku).  Any patches/changes coming out of Jekyll will be applied to Octopress and can easily be upgraded.&lt;/p&gt;
+
+&lt;p&gt;The only thing I would like to do, besides write in my blog, is change the default layout. Octopress has a nice layout etc. that works in most browsers (i.e., mobile, iPad and PC). The colour scheme etc. is a little dark for my liking. In the spirit of &quot;shipping&quot; I'm going to keep writing and modify the layout when I have time.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Back Again</title>
